@@ -1,0 +1,12 @@
+/*Applying external style on the h2 elements in this component
+we are using h2 tag to style only h2 elements*/
+h2{
+    color:blue;
+    background-color: yellow;
+}
+/*in html apply this style to only my-style classes 
+Most common way is create class and use them for css*/
+.my-style{
+    color: purple;
+    background-color: aquamarine;
+}
